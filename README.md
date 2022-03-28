@@ -1,11 +1,12 @@
-### Welcome! 👋   
+## Welcome! 👋   
 
 I am a former service dog trainer turned aspiring web developer currently navigating their way through BloomTech’s full-stack web developer program, with a projected graduation of April 2022!
 
-#### Technical Skills
+### Technical Skills
 
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify
-Backend: Node.js, Express, SQLite3, PostgreSQL, Git CLI, GitHub, knex.js, VS Code, Vercel, Heroku
+Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js
+Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub
 
 ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoha01&show_icons=true&theme=tokyonight)
 
