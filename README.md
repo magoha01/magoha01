@@ -2,6 +2,9 @@
 
 I am a former service dog trainer turned aspiring web developer currently navigating their way through BloomTech’s full-stack web developer program, with a projected graduation of April 2022!
 
+ After deciding to change job paths (along with earning my bachelor's degree in cognitive linguistics), I began searching for a career path that utilized my skill set and passions from both my degree and my former profession. I began teaching myself basic HTML and CSS, and found that much of what I learned in terms of studying and analyzing natural languages applied to learning programming languages. Additionally, I love that web development is a versatile field in which there are multiple ways to grow your career. 
+
+
 ### Technical Skills
 
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify
