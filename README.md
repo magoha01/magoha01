@@ -1,6 +1,6 @@
-## Hello! 👋   
+## Welcome to my Github 👋   
 
-My name is Hailey. After deciding to change job paths and finish my bachelor's degree in cognitive linguistics, I began searching for a career path that utilized my skill set and passions from both my degree and my former profession. I began teaching myself basic HTML and CSS, and found that much of what I learned in terms of studying and analyzing natural languages applied to learning programming languages. Additionally, I love that web development is a versatile field in which there are multiple ways to grow your career. 
+Hi, I'm Hailey! After deciding to change job paths and finish my bachelor's degree in cognitive linguistics, I began searching for a career path that utilized my skill set and passions from both my degree and my former profession. I began teaching myself basic HTML and CSS, and found that much of what I learned in terms of studying and analyzing natural languages applied to learning programming languages. Additionally, I love that web development is a versatile field in which there are multiple ways to grow your career. 
 
 
 ### Technical Skills
