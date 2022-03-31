@@ -5,9 +5,9 @@ My name is Hailey. After deciding to change job paths and finish my bachelor's d
 
 ### Technical Skills
 
-Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify
-Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js
-Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub
+Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify  <br> 
+Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js <br> 
+Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br> 
 
 ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoha01&show_icons=true&theme=tokyonight)
 
