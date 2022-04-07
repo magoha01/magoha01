@@ -10,10 +10,7 @@ Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js <br>
 Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br>
 
 ### 📫 How to reach me: 
-
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
     link = "//linkedin.com/in/hailey-magoline"
 
 ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoha01&show_icons=true&theme=tokyonight)
