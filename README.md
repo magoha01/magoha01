@@ -11,7 +11,7 @@ Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, Git
 
 ### 📫 How to reach me: 
 
- [[params.social]]
+[[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/hailey-magoline"
