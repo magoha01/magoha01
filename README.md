@@ -7,7 +7,14 @@ Hi, I'm Hailey! After deciding to change job paths and finish my bachelor's degr
 
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify  <br> 
 Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js <br> 
-Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br> 
+Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br>
+
+### 📫 How to reach me: 
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/hailey-magoline"
 
 ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoha01&show_icons=true&theme=tokyonight)
 
@@ -21,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
