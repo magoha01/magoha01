@@ -11,11 +11,11 @@ Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, Git
 
 ### 📫 How to reach me: 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/hailey-magoline)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
 ![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoha01&show_icons=true&theme=tokyonight)
 
-<!-- [1]: http://www.linkedin.com/hailey-magoline -->
+[1]: http://www.linkedin.com/in/hailey-magoline
 
 <!--
 **magoha01/magoha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
