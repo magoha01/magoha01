@@ -9,7 +9,7 @@ Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaSc
 Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js <br> 
 Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br>
 
-### 📫 How to reach me: 
+### :link: Let's Connect!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
