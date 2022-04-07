@@ -3,13 +3,17 @@
 Hi, I'm Hailey! After deciding to change job paths and finish my bachelor's degree in cognitive linguistics, I began searching for a career path that utilized my skill set and passions from both my degree and my former profession. I began teaching myself basic HTML and CSS, and found that much of what I learned in terms of studying and analyzing natural languages applied to learning programming languages. Additionally, I love that web development is a versatile field in which there are multiple ways to grow your career. 
 
 
-### Technical Skills
+### 🧰 My Technical Toolbox 🧰
 
-Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify  <br> 
-Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js <br> 
-Other:  Debugging, Deployment, Git CLI, VS Code, Vercel, Heroku, Heroku CLI, GitHub  <br>
+🔨 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Netlify  <br> 
 
-### :link: Let's Connect!
+🔧 Backend: Node.js, Express, SQLite3, PostgreSQL, knex.js, Vercel, Heroku, Netlify <br> 
+
+🪛 Testing:  Yup, Jest, Cypress, Postman <br> 
+
+🪚 Other: Debugging, Deployment, Git CLI, VS Code, Heroku CLI, GitHub  <br>
+
+### 🔗 Click to Connect! 🔗
 
 [![linkedin](https://img.icons8.com/fluency/96/linkedin.png)][1]
 
