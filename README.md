@@ -7,13 +7,14 @@ Hi, I'm Hailey! After deciding to change job paths and finish my bachelor's degr
 
 ### 🧰 My Technical Toolbox 🧰
 
-🔨  Frontend: JavaScript, HTML, CSS, React.js, Redux, Hooks, Context API  <br> 
+🔨  Frontend: JavaScript, HTML, CSS, React.js, Redux, Hooks, Context API,axios <br> 
 
 🔧 Backend: Node.js, Express, SQLite3, PostgreSQL, Knex.js, JWT <br> 
 
-🪛 Testing:  Yup, Jest, Cypress, Postman <br>
+🪛 Testing:  Yup, Jest, Cypress, Postman, HTTPie <br>
 
-🪚 Other: Git/Github, VS Code, Heroku/Heroku CLI, Netlify, Vercel  <br>
+🪚 Other: Git/Github, VS Code, Vercel,  Heroku/ Heroku CLI,  Netlify, Chrome DevTools,  Figma, Ant Design, Slack, Trello <br>
+
 
 ### 🔗 Click to Connect! 🔗
 
