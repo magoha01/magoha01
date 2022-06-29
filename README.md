@@ -11,7 +11,7 @@ Hi, I'm Hailey! After deciding to change job paths and finish my bachelor's degr
 
 🔧 Backend: Node.js, Express, SQLite3, PostgreSQL, Knex.js, JWT <br> 
 
-🪛 Testing:  Yup, Jest, Cypress, Postman, HTTPie <br>
+🪛 Testing:  Yup, Jest, Cypress, Postman, HTTPie, Playwright <br>
 
 🪚 Other: Git/Github, VS Code, Vercel,  Heroku/ Heroku CLI,  Netlify, Chrome DevTools,  Figma, Ant Design, Slack, Trello <br>
 
